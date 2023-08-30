@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694216565753",
+    "project_id": "bmilogin-f3ab7",
+    "storage_bucket": "bmilogin-f3ab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694216565753:android:d890cdaebb472d07729328",
+        "android_client_info": {
+          "package_name": "com.example.firebase_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694216565753-36jsv3ilqcas0lsakm5hjoj9dh7m9b19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJE8yFW9oLI9J_uBW6tL5BWz0CWmAghio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694216565753-36jsv3ilqcas0lsakm5hjoj9dh7m9b19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
